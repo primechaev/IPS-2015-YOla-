@@ -1,3 +1,4 @@
+<?
 $arg1 = intval($_GET["arg1"]);
 $arg2 = intval($_GET["arg2"]);
 $operation = $_GET["operation"];
